@@ -55,7 +55,7 @@
 <body>
 <div id="wrapper">
   <form method="POST" onsubmit="return Validate()" name="form">
-    <div id="Name">
+    <div id="id">
       <label>Name</label> <br>
       <input type="text" name="Name" class="textInput">
       <div id="Name"></div>
